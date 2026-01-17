@@ -54,15 +54,15 @@ Practical advice on choosing between real implementations and mocks in tests.
 
 Martin Fowler’s classic article explaining the difference between mocks, stubs, and other test doubles.
 
-### [Avoid In-Memory Databases for Tests](https://blog.jooq.org/dont-use-in-memory-databases-for-tests/)
+### [Avoid In-Memory Databases for Tests](https://www.jimmybogard.com/avoid-in-memory-databases-for-tests/)
 
 Why test environments should match production databases to catch real-world issues.
 
-### [Avoid Test Duplication](https://kentcdodds.com/blog/avoid-test-duplication)
+### [Avoid Test Duplication](https://martinfowler.com/articles/practical-test-pyramid.html#AvoidTestDuplication)
 
 Strategies for maintaining DRY principles in test code without sacrificing clarity.
 
-### [Why I Manage Test Fixtures Differently](https://thoughtbot.com/blog/factories-should-be-the-bare-minimum)
+### [Why I Manage Test Fixtures Differently](https://thephp.cc/articles/why-i-manage-test-fixture-differently)
 
 Alternative approaches to test data management that improve test maintainability.
 
@@ -70,11 +70,11 @@ Alternative approaches to test data management that improve test maintainability
 
 ## 💡 Development Philosophy
 
-### [Software as a Liability](https://www.stevestreeting.com/2020/02/04/software-as-a-liability/)
+### [Software as a Liability](https://medium.com/swlh/software-as-a-liability-20147b54af91)
 
 Every line of code is a maintenance burden. Write less code, solve more problems.
 
-### [Why Assumptions are the Bane of Software Development](https://www.softwaremeadows.com/posts/the_assumptions_that_kill_software_projects/)
+### [Why Assumptions are the Bane of Software Development](https://medium.com/@andyfarmer/why-assumptions-are-the-bane-of-software-development-facc65524702)
 
 How unstated assumptions lead to project failures and communication breakdowns.
 
@@ -82,7 +82,7 @@ How unstated assumptions lead to project failures and communication breakdowns.
 
 Strategic approach to modernizing legacy systems through deliberate, incremental migrations.
 
-### [Building High-Quality Software](https://www.codewithjason.com/building-high-quality-software/)
+### [Building High-Quality Software](https://kevinsmith.io/separation-of-concerns-is-fundamental-to-building-high-quality-software/)
 
 Practical strategies for maintaining code quality in real-world development environments.
 
@@ -98,11 +98,11 @@ Understanding ownership and responsibility boundaries in object-oriented systems
 
 ## 🔧 Validation & Security
 
-### [Where Does My Validation Live?](https://www.thoughtworks.com/insights/blog/domain-validation)
+### [Where Does My Validation Live?](https://blog.frankdejonge.nl/where-does-validation-live/)
 
 Guidance on placing validation logic at the right architectural layer.
 
-### [Form, Command, and Model Validation](https://enterprisecraftsmanship.com/posts/validation-in-domain-driven-design-ddd/)
+### [Form, Command, and Model Validation](https://verraes.net/2015/02/form-command-model-validation/)
 
 Different types of validation and where they belong in your architecture.
 
@@ -114,7 +114,7 @@ Why escaping output is more effective than sanitizing input for preventing injec
 
 ## 🛠️ Practical Skills
 
-### [Learning to Build: The 5 Bedrock Skills of Innovators](https://review.firstround.com/learning-to-build-the-5-bedrock-skills-of-innovators-and-entrepreneurs)
+### [Learning to Build: The 5 Bedrock Skills of Innovators](https://www.learningtobuildbook.com)
 
 Core competencies for engineers who want to build products, not just features.
 
@@ -122,15 +122,15 @@ Core competencies for engineers who want to build products, not just features.
 
 Basecamp’s approach to product development with fixed time, variable scope.
 
-### [How to Estimate Project Length](https://jacobian.org/2021/may/20/estimation/)
+### [How to Estimate Project Length](https://basecamp.com/shapeup/1.4-chapter-05)
 
 Practical techniques for making realistic project estimates.
 
-### [Zero Downtime Database Migrations](https://fly.io/ruby-dispatch/zero-downtime-deployments/)
+### [Zero Downtime Database Migrations](https://ivelum.com/blog/zero-downtime-db-migrations/#how-does-a-deployment-process-work)
 
 Strategies for safely deploying database changes in production systems.
 
-### [Socratic Method: Fostering Critical Thinking](https://fs.blog/socratic-method/)
+### [Socratic Method: Fostering Critical Thinking](https://tilt.colostate.edu/the-socratic-method/)
 
 Using questions to drive deeper understanding and better solutions.
 
@@ -138,11 +138,11 @@ Using questions to drive deeper understanding and better solutions.
 
 ## 📝 Code Quality
 
-### [Interface Naming Conventions](https://blog.ploeh.dk/2021/04/19/consider-including-identity-in-urls/)
+### [Interface Naming Conventions](https://www.alainschlesser.com/interface-naming-conventions/)
 
 Thoughtful approaches to naming interfaces and abstractions.
 
-### [Safer Bash Scripts](https://vaneyckt.io/posts/safer_bash_scripts_with_set_euxo_pipefail/)
+### [Safer Bash Scripts](https://archive.ph/wVDgt)
 
 Essential practices for writing reliable shell scripts with proper error handling.
 
@@ -150,7 +150,7 @@ Essential practices for writing reliable shell scripts with proper error handlin
 
 A starting point for writing maintainable bash scripts.
 
-### [Avoid the Test User](https://www.luu.io/posts/avoid-the-test-user)
+### [Avoid the Test User](https://kentcdodds.com/blog/avoid-the-test-user)
 
 Why shared test accounts create problems and how to structure tests properly.
 
