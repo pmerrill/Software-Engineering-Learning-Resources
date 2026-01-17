@@ -170,7 +170,7 @@ These articles represent principles I’ve found most valuable in real-world sof
 
 ## 📫 Discussion
 
-Found these helpful? Have resources to suggest? Feel free to [open an issue](https://github.com/pmerrill/learning-resources/issues) or reach out on [LinkedIn](https://linkedin.com/in/petermerrill).
+Found these helpful? Have resources to suggest? Feel free to [open an issue](https://github.com/pmerrill/Software-Engineering-Learning-Resources/issues) or reach out on [LinkedIn](https://linkedin.com/in/petermerrill).
 
 -----
 
