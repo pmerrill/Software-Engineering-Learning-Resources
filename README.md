@@ -32,7 +32,7 @@ Critical examination of the Active Record pattern and its impact on application 
 
 ### [Arrange-Act-Assert Pattern for Good Tests](https://automationpanda.com/2020/07/07/arrange-act-assert-a-pattern-for-writing-good-tests/)
 
-A thoughtful guide on how to structure and approach writing tests.
+A mindset for writing tests that are readable, maintainable, and actually useful.
 
 ### [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 
